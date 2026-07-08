@@ -19,7 +19,7 @@ Enjoy a beautiful, dynamic typewriting experience right in your console as your 
 
 | Song Name | Artist | Language | Folder Link |
 | :--- | :--- | :--- | :--- |
-| **Deja Vu** | Harry Grover | Punjabi / English | [📁 dejavu](file:///c:/Users/senpq/Projects/SongScript/dejavu) |
+| **Deja Vu** | Harry Grover | Punjabi / English | [📁 Dejavu](file:///c:/Users/senpq/Projects/SongScript/dejavu) |
 | **Eno Eno Aagide** | K. S. Harisankar | Kannada | [📁 Eno Eno Aagide](file:///c:/Users/senpq/Projects/SongScript/Eno%20Eno%20Aagide) |
 
 ---
