@@ -13,16 +13,17 @@ Enjoy a beautiful, dynamic typewriting experience right in your console as your 
 * 🧩 **Zero Setup**: Automatically checks and installs requirements (like `pygame`) if they are missing.
 * 🎨 **Aesthetic Terminal Emojis**: Complements every lyric line with custom mood-matching emojis and text faces.
 
----
-
 ## 🎼 Supported Songs
 
 | Song Name | Artist | Language | Folder Link |
 | :--- | :--- | :--- | :--- |
 | **Deja Vu** | Harry Grover | Punjabi / English | [📁 DejaVu](file:///c:/Users/senpq/Projects/SongScript/dejavu) |
 | **Eno Eno Aagide** | K. S. Harisankar | Kannada | [📁 Eno Eno Aagide](file:///c:/Users/senpq/Projects/SongScript/Eno%20Eno%20Aagide) |
+| **Iss Qadar** | Darshan Raval & Tulsi Kumar | Hindi | [📁 Iss Qadar](file:///c:/Users/senpq/Projects/SongScript/Iss_Qadar) |
+| **Kalyani** | Dabzee | Malayalam / English (Dual) | [📁 Kalyani](file:///c:/Users/senpq/Projects/SongScript/Kalyani) |
 
 ---
+
 
 ## 🛠️ How to Run
 
@@ -35,6 +36,10 @@ Enjoy a beautiful, dynamic typewriting experience right in your console as your 
    *or*
    ```bash
    python eno_eno_aagide.py
+   ```
+   *or*
+   ```bash
+   python both.py
    ```
 
 ---
